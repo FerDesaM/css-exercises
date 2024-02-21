@@ -1,0 +1,18 @@
+.number{
+background-color: pink;
+    font:Verdana;
+    font-family: Verdana,"dejaVu Sans",sans-serif;
+}
+.number.cooler{
+    font-size: 24px;
+
+}
+#number-f{
+    font-size: 36px;
+    color: blue;
+}
+#number-t{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
